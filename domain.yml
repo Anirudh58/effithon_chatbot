@@ -14,10 +14,10 @@ entities:
 - project
 - skill
 intents:
-- greet
-- mood_great
 - track
 - over
+- mood_great
+- greet
 - goodbye
 - affirm
 - deny

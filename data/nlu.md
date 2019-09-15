@@ -66,6 +66,8 @@
 - i'm done
 - done
 - im done
+- done
+- over
 
 ## intent:track
 - start learning to [take dump](skill)
@@ -86,3 +88,5 @@
 - let me teach you now to [run logs](skill)
 - start learning to [play app](skill)
 - ill teach you now to [deploy app](skill)
+- let me teach you now to [run watch logs](skill)
+- ill teach you to [configure server](skill)

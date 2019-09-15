@@ -56,3 +56,19 @@
     - utter_over
     - action_track_stop
 
+
+## interactive_story_1
+* track{"skill": "run watch logs"}
+    - slot{"skill": "run watch logs"}
+    - utter_track
+    - action_track_start
+* over
+    - utter_over
+    - action_track_stop
+* track{"skill": "configure server"}
+    - slot{"skill": "configure server"}
+    - utter_track
+    - action_track_start
+* over
+    - utter_over
+    - action_track_stop
