@@ -3,6 +3,7 @@
 actions:
 - action_track_start
 - action_track_stop
+- action_trigger
 - utter_cheer_up
 - utter_did_that_help
 - utter_goodbye
@@ -14,6 +15,7 @@ entities:
 - project
 - skill
 intents:
+- trigger
 - track
 - over
 - mood_great

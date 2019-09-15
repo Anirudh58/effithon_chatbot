@@ -90,3 +90,12 @@
 - ill teach you now to [deploy app](skill)
 - let me teach you now to [run watch logs](skill)
 - ill teach you to [configure server](skill)
+
+## intent:trigger
+- perform [take dump](skill)
+- perform [take logs](skill)
+- perform [run dump](skill)
+- perform [run logs](skill)
+- perform [deploy code](skill)
+- perform [configure server](skill)
+- perform [play app](skill)

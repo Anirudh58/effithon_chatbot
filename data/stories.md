@@ -26,6 +26,10 @@
 * goodbye
   - utter_goodbye
 
+## trigger path
+* trigger
+  - action_trigger
+
 ## tracking path start
 * track
   - utter_track
