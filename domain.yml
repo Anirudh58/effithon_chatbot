@@ -15,9 +15,9 @@ entities:
 - project
 - skill
 intents:
-- trigger
-- track
 - over
+- track
+- trigger
 - mood_great
 - greet
 - goodbye

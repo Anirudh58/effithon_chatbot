@@ -68,6 +68,7 @@
 - im done
 - done
 - over
+- done
 
 ## intent:track
 - start learning to [take dump](skill)
@@ -90,6 +91,7 @@
 - ill teach you now to [deploy app](skill)
 - let me teach you now to [run watch logs](skill)
 - ill teach you to [configure server](skill)
+- start learning to [deploy server](skill)
 
 ## intent:trigger
 - perform [take dump](skill)
@@ -99,3 +101,4 @@
 - perform [deploy code](skill)
 - perform [configure server](skill)
 - perform [play app](skill)
+- perform [deploy server](skill)

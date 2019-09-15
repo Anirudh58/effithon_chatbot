@@ -76,3 +76,15 @@
 * over
     - utter_over
     - action_track_stop
+
+## interactive_story_1
+* trigger{"skill": "deploy server"}
+    - slot{"skill": "deploy server"}
+    - action_trigger
+* track{"skill": "deploy server"}
+    - slot{"skill": "deploy server"}
+    - utter_track
+    - action_track_start
+* over
+    - utter_over
+    - action_track_stop
