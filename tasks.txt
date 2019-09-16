@@ -1,0 +1,4 @@
+1) integrate lakshyas logic into your app
+2) commit reminder
+3) show demo with gear s4 usecase
+4) 
